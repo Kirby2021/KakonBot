@@ -1,0 +1,10 @@
+{
+    "everyoneMention": false,
+    "hostedBy": true,
+    "token": "YOUR_TOKEN",
+    "prefix": "!",
+    "ownerID": ["OWNER_ID"],
+    "success" : "<a:ktick:837277948763308043>",
+    "error" : "<a:kcross:837278014538383370>",
+    "mongoDB": "YOUR_MONGODB_URL"
+}
